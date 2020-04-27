@@ -1,0 +1,4 @@
+#Mon Apr 27 12:02:19 EDT 2020
+base.0=/Users/fieldemployee/Downloads/DroidCafeTask1/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
